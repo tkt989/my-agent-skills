@@ -24,7 +24,6 @@ Understand the following from the Issue:
 
 Identify files related to the Issue and understand the current state.
 
-- Identify affected Views, Models, and Services
 - Review existing implementation patterns
 - Map out dependencies
 
@@ -42,7 +41,6 @@ The plan must include:
 
 After presenting the plan, confirm:
 - Whether to proceed with implementation
-- If any manual Xcode operations are required, state them upfront before coding begins
 
 ## Branch Naming Convention
 
