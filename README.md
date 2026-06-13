@@ -1,6 +1,6 @@
 # My Skills
 
-This repository contains local Codex skills.
+This repository contains agent skills.
 
 ## Skills
 
