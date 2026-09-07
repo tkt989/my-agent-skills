@@ -2,6 +2,10 @@
 
 This repository contains agent skills.
 
+```
+npx skills add tkt989/my-agent-skills
+```
+
 ## Skills
 
 | Skill | Overview |
